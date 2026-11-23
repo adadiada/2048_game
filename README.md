@@ -4,7 +4,7 @@ A classic browser implementation of the popular **2048** sliding tile puzzle gam
 
 ## Live Preview
 
-- [DEMO LINK](http://localhost:8080/)
+- [DEMO LINK](https://adadiada.github.io/2048_game/)
 
 ## Technologies Used
 
@@ -35,7 +35,6 @@ Follow these instructions to set up and run the project locally on your machine:
    ```bash
    npm start
    ```
-   Open [http://localhost:8080](http://localhost:8080)in your browser to play.
 
 ## Features
 
