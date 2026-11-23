@@ -1,8 +1,3 @@
-export default [
-  {
-    languageOptions: {
-      ecmaVersion: "latest",
-      sourceType: "module",
-    },
-  },
-];
+module.exports = {
+  extends: '@mate-academy/eslint-config',
+};
